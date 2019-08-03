@@ -1,0 +1,1484 @@
+{
+  "file_name": "0784_034_14.png",
+  "attributes": {
+    "_via_img_metadata": {
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 725,
+            "y": 196,
+            "width": 499,
+            "height": 174
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "請求書",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3835,
+            "y": 605,
+            "width": 686,
+            "height": 107
+          },
+          "region_attributes": {
+            "formal_key": "issued_date",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "平成30年2月13日",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3484,
+            "y": 605,
+            "width": 238,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "issued_date",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "発行日",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 608,
+            "y": 665,
+            "width": 496,
+            "height": 106
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "〒261-0001",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3113,
+            "y": 807,
+            "width": 1541,
+            "height": 141
+          },
+          "region_attributes": {
+            "formal_key": "company_name",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "株式会社トヨタレンタリース千葉",
+            "note": "overlap",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 600,
+            "y": 883,
+            "width": 398,
+            "height": 106
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご依頼先)",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 602,
+            "y": 987,
+            "width": 401,
+            "height": 109
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご使用者)",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3491,
+            "y": 1036,
+            "width": 452,
+            "height": 97
+          },
+          "region_attributes": {
+            "formal_key": "branch_zipcode",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "〒290-0054",
+            "note": "overlap",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3480,
+            "y": 1150,
+            "width": 867,
+            "height": 95
+          },
+          "region_attributes": {
+            "formal_key": "branch_address",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "市原市五井中委東1-8-7",
+            "note": "overlap",
+            "text_category": "address",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 600,
+            "y": 1221,
+            "width": 1728,
+            "height": 114
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "卜ヨタカローラ千葉株式会社リコール代車御中",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3476,
+            "y": 1257,
+            "width": 105,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "branch_tel",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "TEL",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3783,
+            "y": 1372,
+            "width": 454,
+            "height": 95
+          },
+          "region_attributes": {
+            "formal_key": "branch_name",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "五井駅前店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 346,
+            "y": 1540,
+            "width": 2532,
+            "height": 125
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "毎度格別のお引立てを賜り厚くお礼申しあげます。下記のとおりご請求申しあげます。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 354,
+            "y": 1758,
+            "width": 447,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "レンタカー代",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 672,
+            "y": 1872,
+            "width": 359,
+            "height": 85
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご出発日時",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1183,
+            "y": 1891,
+            "width": 341,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご出発店舗",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1864,
+            "y": 1897,
+            "width": 144,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "車名",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 304,
+            "y": 1929,
+            "width": 237,
+            "height": 79
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "貸渡No",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3107,
+            "y": 1920,
+            "width": 357,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "添付品料等",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3535,
+            "y": 1924,
+            "width": 234,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "燃料代",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3901,
+            "y": 1936,
+            "width": 277,
+            "height": 74
+          },
+          "region_attributes": {
+            "formal_key": "item_total_excluding_tax",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "ご利用額",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2352,
+            "y": 1959,
+            "width": 280,
+            "height": 86
+          },
+          "region_attributes": {
+            "formal_key": "item_total_including_tax",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "ご請求額",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2744,
+            "y": 1964,
+            "width": 313,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "レンダル料",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 672,
+            "y": 1995,
+            "width": 359,
+            "height": 77
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご帰着日時",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1180,
+            "y": 2003,
+            "width": 341,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "書帰着店舗",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1823,
+            "y": 2011,
+            "width": 232,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "登録No",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3118,
+            "y": 2032,
+            "width": 341,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "引取配車等",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3502,
+            "y": 2041,
+            "width": 292,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "事故体損",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3894,
+            "y": 2044,
+            "width": 289,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "item_total_tax",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "消費税額",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 594,
+            "y": 2115,
+            "width": 488,
+            "height": 76
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "30.02.0617:00",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1112,
+            "y": 2115,
+            "width": 343,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "五井駅前店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1590,
+            "y": 2120,
+            "width": 420,
+            "height": 88
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "カローラF(-1709)",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 267,
+            "y": 2161,
+            "width": 303,
+            "height": 79
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "2977192",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3971,
+            "y": 2158,
+            "width": 237,
+            "height": 93
+          },
+          "region_attributes": {
+            "formal_key": "item_total_excluding_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "27,000",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2431,
+            "y": 2191,
+            "width": 232,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "item_total_including_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "29,160",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2764,
+            "y": 2192,
+            "width": 248,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "29,160",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 589,
+            "y": 2224,
+            "width": 488,
+            "height": 82
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "30.02.0914.30",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1109,
+            "y": 2227,
+            "width": 354,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "五井駅前店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1589,
+            "y": 2229,
+            "width": 681,
+            "height": 98
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "習志野500わ9366",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4006,
+            "y": 2276,
+            "width": 207,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "item_total_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "2,160",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1761,
+            "y": 5334,
+            "width": 313,
+            "height": 98
+          },
+          "region_attributes": {
+            "formal_key": "table_total_including_tax_table_total_excluding_tax_table_total_tax",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "ページ計",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3948,
+            "y": 5329,
+            "width": 232,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "table_total_excluding_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "27,000",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2750,
+            "y": 5352,
+            "width": 237,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "29,160",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3986,
+            "y": 5436,
+            "width": 200,
+            "height": 81
+          },
+          "region_attributes": {
+            "formal_key": "table_total_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "2,160",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 357,
+            "y": 5585,
+            "width": 354,
+            "height": 82
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "お支払期目",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 900,
+            "y": 5592,
+            "width": 605,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "前回からの繰越額A",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2262,
+            "y": 5615,
+            "width": 293,
+            "height": 81
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご利用額",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1673,
+            "y": 5636,
+            "width": 153,
+            "height": 74
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "今回",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3011,
+            "y": 5627,
+            "width": 289,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "tax",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "消費税額",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3578,
+            "y": 5634,
+            "width": 491,
+            "height": 93
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "お支払済額(C)",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4226,
+            "y": 5662,
+            "width": 620,
+            "height": 78
+          },
+          "region_attributes": {
+            "formal_key": "amount_including_tax",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "今回ご請求額A+B-C",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1609,
+            "y": 5709,
+            "width": 273,
+            "height": 82
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "ご利用分",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 368,
+            "y": 5742,
+            "width": 338,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "H30.228",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2289,
+            "y": 5777,
+            "width": 324,
+            "height": 93
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "¥29,160",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1702,
+            "y": 5797,
+            "width": 103,
+            "height": 68
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "(B)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3159,
+            "y": 5793,
+            "width": 267,
+            "height": 93
+          },
+          "region_attributes": {
+            "formal_key": "tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "¥2,160",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 420,
+            "y": 6238,
+            "width": 224,
+            "height": 80
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "銀行名",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1089,
+            "y": 6255,
+            "width": 229,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "支店名",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1657,
+            "y": 6256,
+            "width": 272,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "口座種別",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2207,
+            "y": 6276,
+            "width": 275,
+            "height": 78
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "is_targeted": "no",
+            "key_type": "key",
+            "label": "口座番号",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 340,
+            "y": 6336,
+            "width": 380,
+            "height": 98
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "京葉銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1011,
+            "y": 6346,
+            "width": 371,
+            "height": 98
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "五井支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2184,
+            "y": 6378,
+            "width": 324,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "4752371",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1697,
+            "y": 6358,
+            "width": 192,
+            "height": 89
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "普通",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1044,
+            "y": 888,
+            "width": 262,
+            "height": 104
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "C姉崎",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1349,
+            "y": 888,
+            "width": 281,
+            "height": 87
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "片岡雄",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3589,
+            "y": 1267,
+            "width": 551,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "branch_tel",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "0436-23-2711",
+            "note": "overlap",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3771,
+            "y": 753,
+            "width": 586,
+            "height": 567
+          },
+          "region_attributes": {
+            "formal_key": "stamp_square",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "",
+            "note": "overlap",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              858,
+              3087,
+              3075,
+              838,
+              864
+            ],
+            "all_points_y": [
+              5929,
+              5969,
+              6060,
+              6016,
+              5929
+            ]
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "()内には今回ご利用額の内訳として課税対象額を表示しております。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              844,
+              3654,
+              3661,
+              844,
+              858
+            ],
+            "all_points_y": [
+              6028,
+              6074,
+              6162,
+              6109,
+              6033
+            ]
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "お支払済額は今回ご利用分について既にご入金いただいている金額の合計になります。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              212,
+              2033,
+              2028,
+              189,
+              218
+            ],
+            "all_points_y": [
+              6534,
+              6566,
+              6633,
+              6604,
+              6534
+            ]
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "注)ご入金と行き違いに本状が到着した場合はあしからずご容赦のほどお願いいたします。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              2874,
+              3904,
+              3898,
+              2848,
+              2877
+            ],
+            "all_points_y": [
+              6287,
+              6307,
+              6365,
+              6353,
+              6292
+            ]
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "振込される場合は左記口座までお願いいたします。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "polygon",
+            "all_points_x": [
+              2871,
+              3994,
+              3985,
+              2860,
+              2871
+            ],
+            "all_points_y": [
+              6371,
+              6385,
+              6458,
+              6435,
+              6371
+            ]
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "is_targeted": "no",
+            "key_type": "other",
+            "label": "なお振込手数料は貴社にてご負担お願いいたします。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2398,
+            "y": 5350,
+            "width": 246,
+            "height": 84
+          },
+          "region_attributes": {
+            "formal_key": "table_total_including_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "29,160",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4539,
+            "y": 5822,
+            "width": 307,
+            "height": 90
+          },
+          "region_attributes": {
+            "formal_key": "amount_including_tax",
+            "is_targeted": "no",
+            "key_type": "value",
+            "label": "¥29,160",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "_via_attributes": {
+      "region": {
+        "label": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        },
+        "key_type": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "key": "",
+            "value": "",
+            "master": "",
+            "common_key": "",
+            "other": ""
+          },
+          "default_options": {
+            "other": "true"
+          }
+        },
+        "text_category": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "name": "",
+            "address": "",
+            "email": "",
+            "number": "",
+            "alphabet": "",
+            "japanese": "",
+            "checkbox": "",
+            "mix": ""
+          },
+          "default_options": {
+            "mix": "true"
+          }
+        },
+        "text_type": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "handwriting": "",
+            "printed": "",
+            "mixed": ""
+          },
+          "default_options": {
+            "printed": "true"
+          }
+        },
+        "is_targeted": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "yes": "",
+            "no": ""
+          },
+          "default_options": {
+            "no": "true"
+          }
+        },
+        "formal_key": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        },
+        "note": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        }
+      },
+      "file": {}
+    }
+  }
+}

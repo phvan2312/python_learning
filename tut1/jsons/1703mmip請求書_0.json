@@ -1,0 +1,702 @@
+{
+  "file_name": "1703mmip請求書_0.jpg",
+  "attributes": {
+    "_via_img_metadata": {
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1162,
+            "y": 317,
+            "width": 234,
+            "height": 35
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "2017年3月24日",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 747,
+            "y": 357,
+            "width": 201,
+            "height": 69
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "請求書",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 841,
+            "y": 475,
+            "width": 58,
+            "height": 30
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "ID:",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 398,
+            "y": 565,
+            "width": 187,
+            "height": 36
+          },
+          "region_attributes": {
+            "formal_key": "pay_com_name",
+            "key_type": "value",
+            "label": "TIS株式会社",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 917,
+            "y": 665,
+            "width": 399,
+            "height": 33
+          },
+          "region_attributes": {
+            "formal_key": "company_name",
+            "key_type": "value",
+            "label": "(株)MMインキュベーションパートナーズ",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 920,
+            "y": 706,
+            "width": 171,
+            "height": 29
+          },
+          "region_attributes": {
+            "formal_key": "company_zipcode",
+            "key_type": "value",
+            "label": "〒252-0816",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 917,
+            "y": 742,
+            "width": 470,
+            "height": 34
+          },
+          "region_attributes": {
+            "formal_key": "company_address",
+            "key_type": "value",
+            "label": "神奈川県藤沢市遠藤4229-12階",
+            "note": "",
+            "text_category": "address",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 919,
+            "y": 783,
+            "width": 75,
+            "height": 30
+          },
+          "region_attributes": {
+            "formal_key": "company_tel",
+            "key_type": "key",
+            "label": "Tel:",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 921,
+            "y": 819,
+            "width": 71,
+            "height": 33
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "担当",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1163,
+            "y": 821,
+            "width": 158,
+            "height": 33
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "宮地恵美",
+            "note": "",
+            "text_category": "name",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 655,
+            "y": 953,
+            "width": 375,
+            "height": 32
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "かまぼこハウス広告費用",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 463,
+            "y": 1052,
+            "width": 70,
+            "height": 31
+          },
+          "region_attributes": {
+            "formal_key": "item_name",
+            "key_type": "key",
+            "label": "項目",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1231,
+            "y": 1055,
+            "width": 68,
+            "height": 31
+          },
+          "region_attributes": {
+            "formal_key": "item_total_excluding_tax",
+            "key_type": "key",
+            "label": "費用",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 242,
+            "y": 1132,
+            "width": 815,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "item_name",
+            "key_type": "value",
+            "label": "コワーキングスペースにおける貴社ロゴ常時掲載および事業案内常置に",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 247,
+            "y": 1161,
+            "width": 125,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "item_name",
+            "key_type": "value",
+            "label": "係わる費用",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1322,
+            "y": 1190,
+            "width": 121,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "item_total_excluding_tax",
+            "key_type": "value",
+            "label": "￥270,000",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 664,
+            "y": 1314,
+            "width": 104,
+            "height": 44
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "広告ヒ",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 524,
+            "y": 1360,
+            "width": 52,
+            "height": 36
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "指",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1004,
+            "y": 1553,
+            "width": 68,
+            "height": 32
+          },
+          "region_attributes": {
+            "formal_key": "table_total_excluding_tax",
+            "key_type": "key",
+            "label": "小計",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1308,
+            "y": 1561,
+            "width": 135,
+            "height": 28
+          },
+          "region_attributes": {
+            "formal_key": "table_total_excluding_tax",
+            "key_type": "value",
+            "label": "￥270,000",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 970,
+            "y": 1601,
+            "width": 100,
+            "height": 31
+          },
+          "region_attributes": {
+            "formal_key": "table_total_tax",
+            "key_type": "key",
+            "label": "消費税",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1324,
+            "y": 1608,
+            "width": 120,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "table_total_tax",
+            "key_type": "value",
+            "label": "￥21,600",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1307,
+            "y": 1648,
+            "width": 135,
+            "height": 32
+          },
+          "region_attributes": {
+            "formal_key": "table_total_including_tax",
+            "key_type": "value",
+            "label": "￥291,600",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1005,
+            "y": 1646,
+            "width": 68,
+            "height": 31
+          },
+          "region_attributes": {
+            "formal_key": "table_total_including_tax",
+            "key_type": "key",
+            "label": "合計",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 532,
+            "y": 1741,
+            "width": 104,
+            "height": 28
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "普通預金",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1150,
+            "y": 476,
+            "width": 181,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "KH-2017-0003",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 598,
+            "y": 708,
+            "width": 92,
+            "height": 44
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "INC",
+            "note": "fuzzy",
+            "text_category": "alphabet",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 999,
+            "y": 783,
+            "width": 238,
+            "height": 30
+          },
+          "region_attributes": {
+            "formal_key": "company_tel",
+            "key_type": "value",
+            "label": "0466-48-5872",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1399,
+            "y": 709,
+            "width": 165,
+            "height": 173
+          },
+          "region_attributes": {
+            "formal_key": "stamp_square",
+            "key_type": "value",
+            "label": "",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 597,
+            "y": 1362,
+            "width": 157,
+            "height": 40
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "920917",
+            "note": "",
+            "text_category": "number",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 644,
+            "y": 1745,
+            "width": 90,
+            "height": 24
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "1848967",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 740,
+            "y": 1745,
+            "width": 415,
+            "height": 23
+          },
+          "region_attributes": {
+            "formal_key": "account_name_kana",
+            "key_type": "value",
+            "label": "MMインキュベーションパートナーズ",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 624,
+            "y": 1713,
+            "width": 96,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "bank_name_bank_branch_name_account_type_account_number_account_name_kana",
+            "key_type": "key",
+            "label": "振込先:",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 729,
+            "y": 1714,
+            "width": 127,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "スルガ銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 863,
+            "y": 1716,
+            "width": 131,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "湘南台支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 589,
+            "y": 564,
+            "width": 64,
+            "height": 37
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "様",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1000,
+            "y": 1717,
+            "width": 54,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "(303)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "_via_attributes": {
+      "region": {
+        "label": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        },
+        "key_type": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "key": "",
+            "value": "",
+            "master": "",
+            "common_key": "",
+            "other": ""
+          },
+          "default_options": {
+            "other": "true"
+          }
+        },
+        "text_category": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "name": "",
+            "address": "",
+            "email": "",
+            "number": "",
+            "alphabet": "",
+            "japanese": "",
+            "checkbox": "",
+            "mix": ""
+          },
+          "default_options": {
+            "mix": "true"
+          }
+        },
+        "text_type": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "handwriting": "",
+            "printed": "",
+            "mixed": ""
+          },
+          "default_options": {
+            "printed": "true"
+          }
+        },
+        "formal_key": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        },
+        "note": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        }
+      },
+      "file": {}
+    }
+  }
+}

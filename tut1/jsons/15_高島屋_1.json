@@ -1,0 +1,1722 @@
+{
+  "file_name": "15_高島屋_1.png",
+  "attributes": {
+    "_via_img_metadata": {
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1069,
+            "y": 420,
+            "width": 202,
+            "height": 40
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "ご請求書",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1562,
+            "y": 438,
+            "width": 232,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "平成27年11月30日",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1530,
+            "y": 487,
+            "width": 165,
+            "height": 48
+          },
+          "region_attributes": {
+            "formal_key": "company_name",
+            "key_type": "value",
+            "label": "高島屋",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 521,
+            "y": 555,
+            "width": 320,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "中央区日本橋1-9-1",
+            "note": "",
+            "text_category": "address",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 875,
+            "y": 558,
+            "width": 113,
+            "height": 41
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "チャネルC",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 992,
+            "y": 612,
+            "width": 172,
+            "height": 36
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "53230000",
+            "note": "",
+            "text_category": "number",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1223,
+            "y": 607,
+            "width": 127,
+            "height": 45
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "￥16.381",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1414,
+            "y": 624,
+            "width": 160,
+            "height": 24
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "お客様コード",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1666,
+            "y": 624,
+            "width": 135,
+            "height": 23
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "区分番号",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1402,
+            "y": 668,
+            "width": 189,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "*3-50-0115-8*",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1623,
+            "y": 668,
+            "width": 27,
+            "height": 24
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "41",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1670,
+            "y": 668,
+            "width": 104,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "6134-05",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 991,
+            "y": 667,
+            "width": 172,
+            "height": 36
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "53250000",
+            "note": "",
+            "text_category": "number",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1216,
+            "y": 667,
+            "width": 136,
+            "height": 44
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "￥2.592",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "handwriting"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 519,
+            "y": 704,
+            "width": 178,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "pay_com_name",
+            "key_type": "value",
+            "label": "野村證券(株)",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 745,
+            "y": 734,
+            "width": 441,
+            "height": 29
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "ファイナンシャルコンサルティング",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 603,
+            "y": 735,
+            "width": 83,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "柏支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1436,
+            "y": 757,
+            "width": 125,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "問合番号",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 603,
+            "y": 766,
+            "width": 109,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "小室様扱",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 523,
+            "y": 795,
+            "width": 209,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "**12-003679-00",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 944,
+            "y": 787,
+            "width": 178,
+            "height": 49
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "27.12.08",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1400,
+            "y": 802,
+            "width": 206,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "1512-003679-00",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 500,
+            "y": 862,
+            "width": 968,
+            "height": 28
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "毎度お買上げ有難うございます。当月分下記の通りご請求させていただきます。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 526,
+            "y": 908,
+            "width": 778,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "当月ご請求内訳(月日～月日)",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1672,
+            "y": 930,
+            "width": 146,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "amount_including_tax",
+            "key_type": "key",
+            "label": "ご請求高",
+            "note": "noise",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 509,
+            "y": 958,
+            "width": 162,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "前月ご請求高",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1439,
+            "y": 956,
+            "width": 151,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "ご入金高",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1222,
+            "y": 957,
+            "width": 124,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "amount_tax",
+            "key_type": "key",
+            "label": "消費税",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1767,
+            "y": 1023,
+            "width": 81,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "amount_including_tax",
+            "key_type": "value",
+            "label": "18973",
+            "note": "dash line",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1323,
+            "y": 1025,
+            "width": 64,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "amount_tax",
+            "key_type": "value",
+            "label": "1405",
+            "note": "dash line",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 846,
+            "y": 1025,
+            "width": 81,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "amount_excluding_tax",
+            "key_type": "value",
+            "label": "17568",
+            "note": "dash line",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 506,
+            "y": 1084,
+            "width": 1310,
+            "height": 24
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "1.ご計算は毎月15日を以って締切りといたします。なお行き違いにご入金をいただいております節はご容赦下さいませ。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 506,
+            "y": 1109,
+            "width": 1313,
+            "height": 27
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "2.ご不明の点につきましては、お手数ながら経理グループ請求(直通03-3668-7363)までお問合せ下さいませ。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 505,
+            "y": 1136,
+            "width": 1312,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "3.お支払いのため金融機関をご利用の場合は、下記金融機関の「株式会社高島屋」の口座へお振込み下さいませ。",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1502,
+            "y": 1165,
+            "width": 102,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "武蔵野銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1502,
+            "y": 1187,
+            "width": 82,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "新生銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 519,
+            "y": 1188,
+            "width": 103,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "みずほ銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1505,
+            "y": 1209,
+            "width": 121,
+            "height": 18
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "多摩信用金庫",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 520,
+            "y": 517,
+            "width": 148,
+            "height": 24
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "〒103-0027",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1727,
+            "y": 472,
+            "width": 140,
+            "height": 139
+          },
+          "region_attributes": {
+            "formal_key": "stamp_square",
+            "key_type": "value",
+            "label": "",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1468,
+            "y": 486,
+            "width": 50,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "company_name",
+            "key_type": "value",
+            "label": "株式",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1468,
+            "y": 513,
+            "width": 50,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "company_name",
+            "key_type": "value",
+            "label": "会社",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1410,
+            "y": 548,
+            "width": 257,
+            "height": 22
+          },
+          "region_attributes": {
+            "formal_key": "company_address",
+            "key_type": "value",
+            "label": "東京都中央区日本橋241",
+            "note": "",
+            "text_category": "address",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1411,
+            "y": 571,
+            "width": 61,
+            "height": 18
+          },
+          "region_attributes": {
+            "formal_key": "company_tel",
+            "key_type": "key",
+            "label": "TEL",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1531,
+            "y": 570,
+            "width": 135,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "company_tel",
+            "key_type": "value",
+            "label": "03-3211-4111",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1411,
+            "y": 591,
+            "width": 87,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "company_zipcode",
+            "key_type": "key",
+            "label": "郵便番号",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1578,
+            "y": 592,
+            "width": 90,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "company_zipcode",
+            "key_type": "value",
+            "label": "103-8265",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1839,
+            "y": 667,
+            "width": 10,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "1",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 798,
+            "y": 702,
+            "width": 27,
+            "height": 29
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "様",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1431,
+            "y": 719,
+            "width": 118,
+            "height": 26
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "(6)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1171,
+            "y": 798,
+            "width": 89,
+            "height": 44
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "0234",
+            "note": "",
+            "text_category": "number",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 754,
+            "y": 958,
+            "width": 138,
+            "height": 25
+          },
+          "region_attributes": {
+            "formal_key": "amount_excluding_tax",
+            "key_type": "key",
+            "label": "お買上高",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1645,
+            "y": 975,
+            "width": 102,
+            "height": 104
+          },
+          "region_attributes": {
+            "formal_key": "",
+            "key_type": "other",
+            "label": "",
+            "note": "noise",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 517,
+            "y": 1166,
+            "width": 189,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "三菱東京UFJ銀行",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 517,
+            "y": 1209,
+            "width": 125,
+            "height": 23
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "三井住本銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 521,
+            "y": 1231,
+            "width": 100,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "りそな銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1506,
+            "y": 1229,
+            "width": 121,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "青梅信用金庫",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1066,
+            "y": 1165,
+            "width": 81,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "横浜銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1067,
+            "y": 1187,
+            "width": 101,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "スルガ銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1067,
+            "y": 1208,
+            "width": 81,
+            "height": 22
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "千葉銀行",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1068,
+            "y": 1230,
+            "width": 185,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_name",
+            "key_type": "value",
+            "label": "三菱UFJ信託銀行",
+            "note": "",
+            "text_category": "mix",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 709,
+            "y": 1167,
+            "width": 144,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "日本橋中央支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 856,
+            "y": 1166,
+            "width": 51,
+            "height": 23
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 913,
+            "y": 1165,
+            "width": 81,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0081032)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 622,
+            "y": 1189,
+            "width": 125,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "内幸町営業部",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 752,
+            "y": 1190,
+            "width": 48,
+            "height": 18
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 811,
+            "y": 1189,
+            "width": 79,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0093233)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 644,
+            "y": 1210,
+            "width": 124,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "東京中央支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 773,
+            "y": 1211,
+            "width": 48,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 831,
+            "y": 1211,
+            "width": 80,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "02222043)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 623,
+            "y": 1231,
+            "width": 104,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "東京営業部",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 731,
+            "y": 1232,
+            "width": 48,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 790,
+            "y": 1231,
+            "width": 78,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0803615)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1149,
+            "y": 1165,
+            "width": 81,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "東京支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1236,
+            "y": 1167,
+            "width": 49,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1294,
+            "y": 1165,
+            "width": 80,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0003991)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1171,
+            "y": 1188,
+            "width": 81,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "東京支店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1258,
+            "y": 1188,
+            "width": 47,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1316,
+            "y": 1187,
+            "width": 79,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0021506)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1150,
+            "y": 1208,
+            "width": 104,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "東京営業部",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1258,
+            "y": 1209,
+            "width": 47,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1317,
+            "y": 1209,
+            "width": 77,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0509449)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1254,
+            "y": 1231,
+            "width": 42,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "本店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1300,
+            "y": 1231,
+            "width": 47,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1358,
+            "y": 1230,
+            "width": 78,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0204040)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1607,
+            "y": 1166,
+            "width": 40,
+            "height": 18
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "本店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1653,
+            "y": 1166,
+            "width": 47,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(普通",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1710,
+            "y": 1166,
+            "width": 79,
+            "height": 17
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0007801)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1585,
+            "y": 1187,
+            "width": 42,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "本店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1632,
+            "y": 1187,
+            "width": 46,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(普通",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1690,
+            "y": 1187,
+            "width": 78,
+            "height": 18
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0317007)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1627,
+            "y": 1208,
+            "width": 41,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "本店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1674,
+            "y": 1207,
+            "width": 46,
+            "height": 21
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(当座",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1732,
+            "y": 1208,
+            "width": 76,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0086512)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1629,
+            "y": 1229,
+            "width": 40,
+            "height": 20
+          },
+          "region_attributes": {
+            "formal_key": "bank_branch_name",
+            "key_type": "value",
+            "label": "本店",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1674,
+            "y": 1228,
+            "width": 47,
+            "height": 22
+          },
+          "region_attributes": {
+            "formal_key": "account_type",
+            "key_type": "value",
+            "label": "(普通",
+            "note": "",
+            "text_category": "japanese",
+            "text_type": "printed"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1731,
+            "y": 1228,
+            "width": 77,
+            "height": 19
+          },
+          "region_attributes": {
+            "formal_key": "account_number",
+            "key_type": "value",
+            "label": "0300127)",
+            "note": "",
+            "text_category": "alphabet",
+            "text_type": "printed"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "_via_attributes": {
+      "region": {
+        "label": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        },
+        "key_type": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "key": "",
+            "value": "",
+            "master": "",
+            "common_key": "",
+            "other": ""
+          },
+          "default_options": {
+            "other": "true"
+          }
+        },
+        "text_category": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "name": "",
+            "address": "",
+            "email": "",
+            "number": "",
+            "alphabet": "",
+            "japanese": "",
+            "checkbox": "",
+            "mix": ""
+          },
+          "default_options": {
+            "mix": "true"
+          }
+        },
+        "text_type": {
+          "type": "dropdown",
+          "description": "",
+          "options": {
+            "handwriting": "",
+            "printed": "",
+            "mixed": ""
+          },
+          "default_options": {
+            "printed": "true"
+          }
+        },
+        "formal_key": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        },
+        "note": {
+          "type": "text",
+          "description": "",
+          "default_value": ""
+        }
+      },
+      "file": {}
+    }
+  }
+}
