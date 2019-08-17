@@ -1,0 +1,1261 @@
+{
+    "file_name": "00_朝日工業株式会社(納品書_重複)_1.png",
+    "attributes": {
+        "_via_img_metadata": {
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1334,
+                        "y": 303,
+                        "width": 156,
+                        "height": 99
+                    },
+                    "region_attributes": {
+                        "label": "内",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1112,
+                        "y": 301,
+                        "width": 166,
+                        "height": 97
+                    },
+                    "region_attributes": {
+                        "label": "案",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 940,
+                        "y": 299,
+                        "width": 172,
+                        "height": 99
+                    },
+                    "region_attributes": {
+                        "label": "品",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 764,
+                        "y": 303,
+                        "width": 112,
+                        "height": 85
+                    },
+                    "region_attributes": {
+                        "label": "納",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1538,
+                        "y": 301,
+                        "width": 90,
+                        "height": 91
+                    },
+                    "region_attributes": {
+                        "label": "書",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1574,
+                        "y": 455,
+                        "width": 540,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "label": "埼玉県児玉郡神川町渡瀬 2 2 2",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 154,
+                        "y": 479,
+                        "width": 171,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "日付",
+                        "key_type": "key",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "shipping_date",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 396,
+                        "y": 475,
+                        "width": 358,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "2019年 6月19日",
+                        "key_type": "value",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "shipping_date",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1052,
+                        "y": 476,
+                        "width": 151,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "label": "D04691",
+                        "key_type": "value",
+                        "text_category": "alphabet",
+                        "text_type": "printed",
+                        "formal_key": "order_number",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 826,
+                        "y": 477,
+                        "width": 154,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "発行No.",
+                        "key_type": "key",
+                        "text_category": "mix",
+                        "text_type": "printed",
+                        "formal_key": "order_number",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1940,
+                        "y": 491,
+                        "width": 310,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "label": "0274-52-2723 (代)",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1792,
+                        "y": 499,
+                        "width": 76,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "label": "TEL",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1932,
+                        "y": 537,
+                        "width": 316,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "label": "0274-20-3888 (代)",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1782,
+                        "y": 541,
+                        "width": 84,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "label": "FAX",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 152,
+                        "y": 557,
+                        "width": 188,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "指図番号",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 436,
+                        "y": 549,
+                        "width": 306,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "label": "1906D - 0659",
+                        "key_type": "other",
+                        "text_category": "alphabet",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 822,
+                        "y": 557,
+                        "width": 180,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "契約番号",
+                        "key_type": "key",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "customer_id",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1026,
+                        "y": 557,
+                        "width": 296,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "A-180309-257",
+                        "key_type": "value",
+                        "text_category": "alphabet",
+                        "text_type": "printed",
+                        "formal_key": "customer_id",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1664,
+                        "y": 595,
+                        "width": 624,
+                        "height": 85
+                    },
+                    "region_attributes": {
+                        "label": "朝日工業株式会社",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 384,
+                        "y": 625,
+                        "width": 666,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "岡谷鋼機株 鉄鋼第一部建材室",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 659,
+                        "width": 196,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "注 文 者",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2034,
+                        "y": 687,
+                        "width": 226,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "埼玉工場",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1582,
+                        "y": 741,
+                        "width": 92,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "label": "本社",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1578,
+                        "y": 781,
+                        "width": 474,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "東京都豊島区東池袋3-23-5",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 793,
+                        "width": 70,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "経",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 274,
+                        "y": 793,
+                        "width": 70,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "由",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1800,
+                        "y": 825,
+                        "width": 300,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "Da i wa東池袋ビル",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1366,
+                        "y": 823,
+                        "width": 56,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "殿",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1938,
+                        "y": 865,
+                        "width": 306,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "03-3987-2165 (代)",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1788,
+                        "y": 871,
+                        "width": 82,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "TEL",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 378,
+                        "y": 891,
+                        "width": 476,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "label": "大成 · 佐藤 · 東洋 J V",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 152,
+                        "y": 899,
+                        "width": 194,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "需 要 家",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1360,
+                        "y": 899,
+                        "width": 76,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "殿",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1784,
+                        "y": 917,
+                        "width": 86,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "label": "FAX",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1938,
+                        "y": 917,
+                        "width": 318,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "label": "03-5396-7500 (代)",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 390,
+                        "y": 967,
+                        "width": 358,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "サカエ工業 (株)",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1360,
+                        "y": 975,
+                        "width": 74,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "殿",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1508,
+                        "y": 975,
+                        "width": 86,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "Tel",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 997,
+                        "width": 190,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "label": "持 込 先",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 384,
+                        "y": 1033,
+                        "width": 612,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "横浜市金沢区福浦 2 - 4 - 1 0",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 150,
+                        "y": 1111,
+                        "width": 196,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "工 事 名",
+                        "key_type": "key",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "pay_com_name",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 381,
+                        "y": 1108,
+                        "width": 657,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "label": "高速横浜環状北西線北八朔立坑 ",
+                        "key_type": "value",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "pay_com_name",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1940,
+                        "y": 1187,
+                        "width": 110,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "3481",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 1181,
+                        "width": 196,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "運 送 店",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 378,
+                        "y": 1179,
+                        "width": 260,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "label": "光和運輸株",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1488,
+                        "y": 1187,
+                        "width": 68,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "label": "車",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1608,
+                        "y": 1187,
+                        "width": 68,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "番",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 683,
+                        "y": 1301,
+                        "width": 139,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "label": "長さm",
+                        "key_type": "key",
+                        "text_category": "mix",
+                        "text_type": "printed",
+                        "formal_key": "item_length_item_unit_length",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 164,
+                        "y": 1300,
+                        "width": 218,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "label": "品名",
+                        "key_type": "key",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "item_name",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1378,
+                        "y": 1299,
+                        "width": 214,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "label": "単価 円/t",
+                        "key_type": "key",
+                        "text_category": "mix",
+                        "text_type": "printed",
+                        "formal_key": "item_unit_amount_item_amount_unit\t",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1834,
+                        "y": 1299,
+                        "width": 74,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "額",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2064,
+                        "y": 1299,
+                        "width": 150,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "備 考",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 496,
+                        "y": 1299,
+                        "width": 66,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "label": "径",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 906,
+                        "y": 1298,
+                        "width": 179,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "label": "本数",
+                        "key_type": "key",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "item_quantity",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1136,
+                        "y": 1301,
+                        "width": 172,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "重量kg",
+                        "key_type": "key",
+                        "text_category": "mix",
+                        "text_type": "printed",
+                        "formal_key": "item_weight_item_unit_weight",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1668,
+                        "y": 1299,
+                        "width": 72,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "金",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 151,
+                        "y": 1357,
+                        "width": 146,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "label": "SD345",
+                        "key_type": "value",
+                        "text_category": "alphabet",
+                        "text_type": "printed",
+                        "formal_key": "item_name",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 436,
+                        "y": 1361,
+                        "width": 106,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "D13",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 769,
+                        "y": 1361,
+                        "width": 100,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "8.0",
+                        "key_type": "value",
+                        "text_category": "number",
+                        "text_type": "printed",
+                        "formal_key": "item_length",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1243,
+                        "y": 1360,
+                        "width": 98,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "label": "549",
+                        "key_type": "value",
+                        "text_category": "number",
+                        "text_type": "printed",
+                        "formal_key": "item_weight",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1022,
+                        "y": 1361,
+                        "width": 80,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "69",
+                        "key_type": "value",
+                        "text_category": "number",
+                        "text_type": "printed",
+                        "formal_key": "item_quantity",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1804,
+                        "y": 1481,
+                        "width": 166,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "label": "36124",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1984,
+                        "y": 1481,
+                        "width": 82,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "label": "計",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1243,
+                        "y": 1483,
+                        "width": 97,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "label": "549",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1424,
+                        "y": 1482,
+                        "width": 149,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "label": "65800",
+                        "key_type": "value",
+                        "text_category": "number",
+                        "text_type": "printed",
+                        "formal_key": "item_unit_amount",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 918,
+                        "y": 2921,
+                        "width": 150,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "label": "合 計",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1236,
+                        "y": 2919,
+                        "width": 102,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "label": "549",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1810,
+                        "y": 2913,
+                        "width": 164,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "label": "36124",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1986,
+                        "y": 3017,
+                        "width": 170,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "label": "QRDD-02",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 452,
+                        "y": 3073,
+                        "width": 538,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "label": "上記の通り納品致しました.",
+                        "key_type": "other",
+                        "text_category": "japanese",
+                        "text_type": "printed",
+                        "formal_key": "",
+                        "note": ""
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "_via_attributes": {
+            "region": {
+                "label": {
+                    "type": "text",
+                    "description": "",
+                    "default_value": ""
+                },
+                "key_type": {
+                    "type": "dropdown",
+                    "description": "",
+                    "options": {
+                        "key": "",
+                        "value": "",
+                        "other": ""
+                    },
+                    "default_options": {
+                        "other": "true"
+                    }
+                },
+                "text_category": {
+                    "type": "dropdown",
+                    "description": "",
+                    "options": {
+                        "name": "",
+                        "address": "",
+                        "email": "",
+                        "number": "",
+                        "alphabet": "",
+                        "japanese": "",
+                        "checkbox": "",
+                        "mix": ""
+                    },
+                    "default_options": {
+                        "japanese": "true"
+                    }
+                },
+                "text_type": {
+                    "type": "dropdown",
+                    "description": "",
+                    "options": {
+                        "handwriting": "",
+                        "printed": "",
+                        "mixed": ""
+                    },
+                    "default_options": {
+                        "printed": "true"
+                    }
+                },
+                "formal_key": {
+                    "type": "text",
+                    "description": "",
+                    "default_value": ""
+                },
+                "note": {
+                    "type": "text",
+                    "description": "",
+                    "default_value": ""
+                }
+            },
+            "file": {}
+        }
+    }
+}
